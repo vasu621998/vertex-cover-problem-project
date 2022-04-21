@@ -1,0 +1,2 @@
+# vertex-cover-problem-project
+The main objective of this project is to help the local police department with their installation of security cameras at traffic intersections in such a way so, police to be able to minimize the number of cameras they need to install, and still be as effective as possible with their monitoring. The problem of finding a minimum vertex cover is a classical optimization problem and is a typical example of an NP-complete problem that has an approximation algorithm.
